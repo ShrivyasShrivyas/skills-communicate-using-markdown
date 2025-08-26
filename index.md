@@ -9,4 +9,10 @@ var myVar = "Hello, world!";
 ```
 
 ``` python
-input_taken = input("Enter the input");
+input_taken = input("Enter the input")
+```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
